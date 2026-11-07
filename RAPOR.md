@@ -1,10 +1,10 @@
 # Rapor
 
-**Ad Soyad:**
-**Numara:**
+**Ad Soyad:Bilge Kağan Öztürk**
+**Numara:692**
 
 ## 1. Problemin Açıklaması
-<!-- Problemi kendi cümlelerinizle yazın. -->
+Asansör kat çıkıyo bizde çıkıyomu buluyoreuz.
 
 
 ## 2. Girdi - İşlem - Çıktı
